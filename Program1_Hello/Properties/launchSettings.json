@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Program1_Hello": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}

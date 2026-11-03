@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Program1_Hello/Program1_Hello.csproj" />
+  <Project Path="Program2_StudentProfile/Program2_StudentProfile.csproj" />
+  <Project Path="Program3_BillSplitter/Program3_BillSplitter.csproj" />
+</Solution>
